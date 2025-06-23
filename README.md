@@ -51,8 +51,7 @@ During this project, I worked across multiple layers of the stack, contributing 
 ![iCradle Architecture](https://github.com/user-attachments/assets/42baae81-45fa-45cd-98e9-851aaff85fd1)
 
 ### Mobile App (Kotlin, Android)
-![iCradle Mobile App](images/icradle-mobile.png)
-<img width="377" alt="CradleKotlinMobileApp" src="https://github.com/user-attachments/assets/fa826a3d-f672-4cc7-ac01-079239c5f69a" />
+![iCradle Mobile App](<img width="377" alt="CradleKotlinMobileApp" src="https://github.com/user-attachments/assets/fa826a3d-f672-4cc7-ac01-079239c5f69a" />)
 
 
 
